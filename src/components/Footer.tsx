@@ -13,7 +13,7 @@ const Footer = () => {
         {/* Newsletter */}
         <div className="bg-primary/10 rounded-3xl p-8 md:p-12 mb-16 flex flex-col md:flex-row items-center justify-between border border-primary/20">
           <div className="md:w-1/2 mb-6 md:mb-0">
-            <h3 className="text-3xl font-serif font-bold mb-2">Stay Updated with<br/>Thinesh Bake House</h3>
+            <h3 className="text-3xl font-serif font-bold mb-2">Stay Updated with<br/>The Bakery House</h3>
             <p className="text-white/70">Subscribe to get the latest offers, new arrivals, and baking tips.</p>
           </div>
           <div className="md:w-1/2 w-full max-w-md">
@@ -33,7 +33,7 @@ const Footer = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1">
-            <img src="/assets/TBH-Logo-1024x1024-1.png" alt="Thinesh Bake House Logo" className="h-28 w-auto mb-4 drop-shadow-lg" />
+            <img src="/assets/TBH-Logo-1024x1024-1.png" alt="The Bakery House Logo" className="h-28 w-auto mb-4 drop-shadow-lg" />
             <p className="text-white/60 text-sm leading-relaxed mb-6">
               Your Favourite Baker Since 1982. Bringing you the best in baked goods made with love and premium ingredients.
             </p>
@@ -64,13 +64,13 @@ const Footer = () => {
             <ul className="space-y-2 text-white/60 text-sm">
               <li>123, Bakery Street, Colombo 05</li>
               <li>011 234 5678</li>
-              <li>info@thineshbakehouse.lk</li>
+              <li>info@thebakeryhouse.lk</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-white/10 pt-8 text-center text-white/40 text-sm">
-          <p>&copy; {new Date().getFullYear()} Thinesh Bake House. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} The Bakery House. All Rights Reserved.</p>
         </div>
       </div>
     </footer>

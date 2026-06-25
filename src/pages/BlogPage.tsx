@@ -11,7 +11,7 @@ const BlogPage = () => {
       <div className="container mx-auto px-4 md:px-12">
         <h1 className="text-4xl md:text-5xl font-serif font-bold text-dark mb-8 text-center">Our Blog</h1>
         <p className="text-dark/70 text-lg max-w-2xl mx-auto text-center mb-16">
-          Stories, recipes, and updates from the Thinesh Bake House family. Read about our passion for baking.
+          Stories, recipes, and updates from the The Bakery House family. Read about our passion for baking.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

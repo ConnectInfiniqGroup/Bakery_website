@@ -39,7 +39,7 @@ const About = () => {
               Our Story
             </h2>
             <p className="text-dark/70 text-lg leading-relaxed mb-6">
-              Founded in 1982, Thinesh Bake House began as a small bakery with a big dream – to bring happiness through freshly baked goods.
+              Founded in 1982, The Bakery House began as a small bakery with a big dream – to bring happiness through freshly baked goods.
             </p>
             <p className="text-dark/70 text-lg leading-relaxed mb-10">
               Today, we are proud to be your favourite baker, known for quality, taste, and trust. Our secret ingredient has always been the passion we pour into every single recipe, handed down through generations.

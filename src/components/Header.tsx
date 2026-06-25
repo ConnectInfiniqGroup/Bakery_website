@@ -48,7 +48,7 @@ const Header = () => {
     <header className={`fixed top-0 w-full z-40 py-4 px-4 md:px-12 transition-all duration-300 ${scrolled ? 'bg-white/95 backdrop-blur-sm shadow-sm' : 'bg-transparent'}`}>
       <div className="flex justify-between items-center w-full">
         <Link to="/" className="flex items-center gap-2">
-          <img src="/assets/TBH-Logo-1024x1024-1.png" alt="Thinesh Bake House Logo" className="h-24 md:h-32 w-auto" />
+          <img src="/assets/TBH-Logo-1024x1024-1.png" alt="The Bakery House Logo" className="h-24 md:h-32 w-auto" />
         </Link>
         
         {/* Desktop Navigation */}

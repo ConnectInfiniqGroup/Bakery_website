@@ -14,7 +14,7 @@ const AboutPage = () => {
             <div>
               <h2 className="text-3xl font-serif font-bold text-dark mb-6">Our Story Begins in 1982</h2>
               <p className="text-dark/70 text-lg mb-4 leading-relaxed">
-                Thinesh Bake House started as a small, humble bakery in the heart of Colombo. For over 40 years, we have been dedicated to bringing you the finest baked goods, crafted with love, passion, and the highest quality ingredients.
+                The Bakery House started as a small, humble bakery in the heart of Colombo. For over 40 years, we have been dedicated to bringing you the finest baked goods, crafted with love, passion, and the highest quality ingredients.
               </p>
               <p className="text-dark/70 text-lg leading-relaxed">
                 Our recipes have been passed down through generations, ensuring that every bite you take is a taste of our rich heritage. We believe in the magic of freshly baked bread and the joy of sharing sweet moments with loved ones.

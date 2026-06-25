@@ -26,7 +26,7 @@ const OutletsPage = () => {
       <div className="container mx-auto px-4 md:px-12">
         <h1 className="text-4xl md:text-5xl font-serif font-bold text-dark mb-8 text-center">Our Outlets</h1>
         <p className="text-dark/70 text-lg max-w-2xl mx-auto text-center mb-16">
-          Find a Thinesh Bake House near you! We have multiple branches ready to serve you fresh bakery items every day.
+          Find a The Bakery House near you! We have multiple branches ready to serve you fresh bakery items every day.
         </p>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
